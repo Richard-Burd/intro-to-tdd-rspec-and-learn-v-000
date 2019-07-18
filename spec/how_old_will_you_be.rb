@@ -7,5 +7,7 @@ describe "future_age method" do
     future_year = 2050
     birth_year = 1975
     answer = future_year - birth_year
+
+    future_age_of_person = future_age(future_year, birth_year)
   end
 end
