@@ -1,7 +1,7 @@
 # Burd created this file
 
 require_relative './current_age_for_birth_year.rb'
-require_relative './current_age_for_birth_year.rb'
+require_relative './future_age.rb'
 
 # This section is the same as how_old_are_you.rb
 puts "What year were you born?"
