@@ -6,5 +6,6 @@ describe "future_age method" do
   it "returns the future age of a person based on the year of birth and the future year" do
     future_year = 2050
     birth_year = 1975
+    answer = future_year - birth_year
   end
 end
