@@ -16,4 +16,4 @@ puts "You are: " + users_age.to_s + " years old."
 puts "Enter a year in the future to find out how old you will be in it."
 future_year = gets.to_i
 
-puts "In " + future_year.to_s + " You will be " + future_age.to_s
+puts "In " + future_year.to_s + "You will be " #S+ future_age.to_s
