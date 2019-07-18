@@ -1,8 +1,9 @@
 # Burd created this file
 
-# This section is the same as how_old_are_you.rb
+require_relative './current_age_for_birth_year.rb'
 require_relative './current_age_for_birth_year.rb'
 
+# This section is the same as how_old_are_you.rb
 puts "What year were you born?"
 birth_year = gets.to_i
 
