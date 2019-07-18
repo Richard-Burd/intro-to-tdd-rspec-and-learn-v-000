@@ -9,5 +9,6 @@ describe "future_age method" do
     answer = future_year - birth_year
 
     future_age_of_person = future_age(future_year, birth_year)
+    expect(future_age_of_person).to eq(answer)
   end
 end
