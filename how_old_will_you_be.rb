@@ -1,6 +1,6 @@
 #touch how_old_are_you.rb
 
-require_relative './current_age_for_birth_year.rb'
+require_relative './how_old_will_you_be.rb'
 
 puts "What year were you born?"
 birth_year = gets.to_i
